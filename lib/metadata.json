@@ -1,11 +1,164 @@
 {
   "vaultName": "obsidian-private",
-  "lastExport": 1743180857761,
+  "lastExport": 1743186226134,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon folder-font-bold colorful-folder card-layout-open-light accent-color-override-light mod-left-split-background-primary-light mod-right-split-background-primary-light mod-root-split-background-primary-light background-underlying-CSS-light activated-file-customize-light mod-left-split-background-primary-dark mod-right-split-background-primary-dark mod-root-split-background-primary-dark background-underlying-default-dark activated-file-default-dark line-hover-indicator focus-indicator-list-level focus-indicator-codeblock-line-number h1-color-designated h2-color-designated h3-color-designated h4-color-designated h5-color-designated h6-color-designated zoom-off codeblock-style-customize callout-style-1 seamless-embeds card-layout-pad-open",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "考研/images/images/Pasted Image 20250218204340_645.png",
+    "考研/images/images/Pasted Image 20250218210725_533.png",
+    "考研/images/images/Pasted Image 20250218211424_763.png",
+    "考研/images/images/Pasted Image 20250219000435_127.png",
+    "考研/images/images/Pasted Image 20250219003711_266.png",
+    "考研/images/images/Pasted Image 20250219004504_948.png",
+    "考研/images/images/Pasted Image 20250219004905_613.png",
+    "考研/images/images/Pasted Image 20250219005029_640.png",
+    "考研/images/images/Pasted Image 20250304160012_536.png",
+    "考研/images/images/Pasted Image 20250312184251_167.png",
+    "考研/images/images/Pasted Image 20250312184258_601.png",
+    "考研/images/images/Pasted Image 20250312184316_698.png",
+    "考研/images/images/Pasted Image 20250312184354_316.png",
+    "考研/images/images/Pasted Image 20250312184411_229.png",
+    "考研/images/images/Pasted Image 20250312184434_602.png",
+    "考研/images/images/Pasted Image 20250312184455_321.png",
+    "考研/images/images/Pasted Image 20250312184704_326.png",
+    "考研/images/images/Pasted Image 20250312184718_772.png",
+    "考研/images/images/Pasted Image 20250312184745_670.png",
+    "考研/images/images/Pasted Image 20250312184924_909.png",
+    "考研/images/images/Pasted Image 20250312184958_422.png",
+    "考研/images/images/Pasted Image 20250312185245_174.png",
+    "考研/images/images/Pasted Image 20250314165936_062.png",
+    "考研/images/images/Pasted Image 20250314170048_944.png",
+    "考研/images/images/Pasted Image 20250318174107_655.png",
+    "考研/images/images/Pasted Image 20250326201040_565.png",
+    "考研/images/images/Pasted Image 20250326201155_967.png",
+    "考研/images/images/Pasted Image 20250326205309_152.png",
+    "考研/images/images/Pasted Image 20250326213642_957.png",
+    "考研/images/images/Pasted Image 20250326213646_697.png",
+    "考研/images/images/PixPin_2025-03-18_18-00-25.png",
+    "考研/images/images/PixPin_2025-03-18_18-00-25_0.png",
+    "考研/images/高数 2025-03-11 19.55.32.excalidraw.md",
+    "考研/images/高数 2025-03-12 16.24.09.excalidraw.md",
+    "考研/images/高数 2025-03-12 18.42.47.excalidraw.md",
+    "考研/images/高数 2025-03-12 18.46.22.excalidraw.md",
+    "考研/images/高数 2025-03-18 17.20.17.excalidraw.md",
+    "考研/images/高数 2025-03-18 17.40.45.excalidraw.md",
+    "考研/images/高数 2025-03-19 10.33.12.excalidraw.md",
+    "考研/images/高数 2025-03-19 18.12.43.excalidraw.md",
+    "考研/images/高数 2025-03-23 22.10.13.excalidraw.md",
+    "考研/images/高数 2025-03-24 13.12.10.excalidraw.md",
+    "考研/images/计组 2025-03-09 19.28.09.excalidraw.md",
+    "考研/images/计组 2025-03-09 19.28.49.excalidraw.md",
+    "考研/images/计组 2025-03-09 19.29.27.excalidraw.md",
+    "考研/images/计组 2025-03-09 19.30.07.excalidraw.md",
+    "考研/images/计组 2025-03-17 20.59.20.excalidraw.md",
+    "考研/images/计组 2025-03-26 20.52.52.excalidraw.md",
+    "考研/images/计组 2025-03-26 21.36.39.excalidraw.md",
+    "考研/images/加减运算电路.png",
+    "考研/images/数据结构.excalidraw.png",
+    "考研/images/数据结构 2025-03-09 19.24.06.excalidraw.md",
+    "考研/images/数据结构 2025-03-09 19.25.36.excalidraw.md",
+    "考研/images/数据结构 2025-03-09 19.26.21.excalidraw.md",
+    "考研/images/数据结构 2025-03-14 16.58.44.excalidraw.md",
+    "考研/images/数据结构 2025-03-27 19.46.53.excalidraw.md",
+    "考研/images/IMG_0842.jpeg",
+    "考研/images/Pasted image 20241121191851.png",
+    "考研/images/Pasted image 20241121191915.png",
+    "考研/images/Pasted image 20241121191923.png",
+    "考研/images/Pasted image 20241121191930.png",
+    "考研/images/Pasted image 20241121191936.png",
+    "考研/images/Pasted image 20241121191942.png",
+    "考研/images/Pasted image 20241121191948.png",
+    "考研/images/Pasted image 20241121192056.png",
+    "考研/images/Pasted image 20241121192100.png",
+    "考研/images/Pasted image 20241121192157.png",
+    "考研/images/Pasted image 20250218202838.png",
+    "考研/images/Pasted image 20250218204707.png",
+    "考研/images/Pasted image 20250218205853.png",
+    "考研/images/Pasted image 20250218210111.png",
+    "考研/images/Pasted image 20250218210143.png",
+    "考研/images/Pasted image 20250218211939.png",
+    "考研/images/Pasted image 20250219003328.png",
+    "考研/images/Pasted image 20250219005122.png",
+    "考研/images/Pasted image 20250219005440.png",
+    "考研/images/Pasted image 20250219145516.png",
+    "考研/images/Pasted image 20250220172733.png",
+    "考研/images/Pasted image 20250225205355.png",
+    "考研/images/Pasted image 20250304152025.png",
+    "考研/images/Pasted image 20250304153031.png",
+    "考研/images/Pasted image 20250304211712.png",
+    "考研/images/Pasted image 20250305154836.png",
+    "考研/images/Pasted image 20250305171240.png",
+    "考研/images/Pasted image 20250305171245.png",
+    "考研/images/Pasted image 20250305194336.png",
+    "考研/images/Pasted image 20250305194614.png",
+    "考研/images/Pasted image 20250305194719.png",
+    "考研/images/Pasted image 20250306104009.png",
+    "考研/images/Pasted image 20250306110706.png",
+    "考研/images/Pasted image 20250306172544.png",
+    "考研/images/Pasted image 20250306174631.png",
+    "考研/images/Pasted image 20250306175127.png",
+    "考研/images/Pasted image 20250306180749.png",
+    "考研/images/Pasted image 20250306183436.png",
+    "考研/images/Pasted image 20250306183503.png",
+    "考研/images/Pasted image 20250306190609.png",
+    "考研/images/Pasted image 20250306194215.png",
+    "考研/images/Pasted image 20250306194847.png",
+    "考研/images/Pasted image 20250306204658.png",
+    "考研/images/Pasted image 20250306205106.png",
+    "考研/images/Pasted image 20250309150218.png",
+    "考研/images/Pasted image 20250309170406.png",
+    "考研/images/Pasted image 20250309170417.png",
+    "考研/images/Pasted image 20250309170426.png",
+    "考研/images/Pasted image 20250309170454.png",
+    "考研/images/Pasted image 20250309170531.png",
+    "考研/images/Pasted image 20250309170855.png",
+    "考研/images/Pasted image 20250309170902.png",
+    "考研/images/Pasted image 20250309184538.png",
+    "考研/images/Pasted image 20250309185518.png",
+    "考研/images/Pasted image 20250309185713.png",
+    "考研/images/Pasted image 20250309185902.png",
+    "考研/images/Pasted image 20250309185926.png",
+    "考研/images/Pasted image 20250309194602.png",
+    "考研/images/Pasted image 20250309200800.png",
+    "考研/images/Pasted image 20250309201929.png",
+    "考研/images/Pasted image 20250311193711.png",
+    "考研/images/Pasted image 20250311204619.png",
+    "考研/images/Pasted image 20250311204622.png",
+    "考研/images/Pasted image 20250312165657.png",
+    "考研/images/Pasted image 20250312165713.png",
+    "考研/images/Pasted image 20250312183950.png",
+    "考研/images/Pasted image 20250312184129.png",
+    "考研/images/Pasted image 20250314160544.png",
+    "考研/images/Pasted image 20250314165148.png",
+    "考研/images/Pasted image 20250314171130.png",
+    "考研/images/Pasted image 20250314171144.png",
+    "考研/images/Pasted image 20250314172519.png",
+    "考研/images/Pasted image 20250314194523.png",
+    "考研/images/Pasted image 20250315161416.png",
+    "考研/images/Pasted image 20250315161419.png",
+    "考研/images/Pasted image 20250316222702.png",
+    "考研/images/Pasted image 20250316224420.png",
+    "考研/images/Pasted image 20250318165050.png",
+    "考研/images/Pasted image 20250319204145.png",
+    "考研/images/Pasted image 20250324203024.png",
+    "考研/images/Pasted image 20250324212003.png",
+    "考研/images/Pasted image 20250324212035.png",
+    "考研/images/Pasted image 20250324212112.png",
+    "考研/images/Pasted image 20250325112535.png",
+    "考研/images/Pasted image 20250325113920.png",
+    "考研/images/Pasted image 20250325114855.png",
+    "考研/images/Pasted image 20250325175506.png",
+    "考研/images/Pasted image 20250325194813.png",
+    "考研/images/Pasted image 20250325195044.png",
+    "考研/images/Pasted image 20250326150602.png",
+    "考研/images/Pasted image 20250326170210.png",
+    "考研/images/Pasted image 20250326204806.png",
+    "考研/images/Pasted image 20250326211451.png",
+    "考研/images/Pasted image 20250327194511.png",
+    "考研/images/Pasted image 20250327194631.png",
+    "考研/images/Pasted image 20250327195359.png",
     "考研/操作系统.md",
     "考研/高数.md",
     "考研/计网.md",
@@ -14,7 +167,7 @@
     "考研/数据结构.md",
     "考研/数学.md",
     "考研/线代.md",
-    "主页.md",
+    "index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -91,272 +244,1190 @@
     "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
+    "考研/images/images/Pasted Image 20250218204340_645.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 132515,
+      "exportedPath": "考研/images/images/Pasted Image 20250218204340_645.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250218210725_533.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 545022,
+      "exportedPath": "考研/images/images/Pasted Image 20250218210725_533.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250218211424_763.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1652169,
+      "exportedPath": "考研/images/images/Pasted Image 20250218211424_763.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250219000435_127.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1388442,
+      "exportedPath": "考研/images/images/Pasted Image 20250219000435_127.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250219003711_266.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1330238,
+      "exportedPath": "考研/images/images/Pasted Image 20250219003711_266.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250219004504_948.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1310964,
+      "exportedPath": "考研/images/images/Pasted Image 20250219004504_948.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250219004905_613.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1373824,
+      "exportedPath": "考研/images/images/Pasted Image 20250219004905_613.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250219005029_640.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1109782,
+      "exportedPath": "考研/images/images/Pasted Image 20250219005029_640.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250304160012_536.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1416005,
+      "exportedPath": "考研/images/images/Pasted Image 20250304160012_536.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184251_167.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 15926,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184251_167.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184258_601.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 11335,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184258_601.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184316_698.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 8916,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184316_698.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184354_316.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 10153,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184354_316.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184411_229.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 10762,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184411_229.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184434_602.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 24962,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184434_602.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184455_321.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 27496,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184455_321.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184704_326.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 19414,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184704_326.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184718_772.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 23549,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184718_772.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184745_670.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 35012,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184745_670.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184924_909.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 29252,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184924_909.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312184958_422.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 24209,
+      "exportedPath": "考研/images/images/Pasted Image 20250312184958_422.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250312185245_174.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 24403,
+      "exportedPath": "考研/images/images/Pasted Image 20250312185245_174.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250314165936_062.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 630450,
+      "exportedPath": "考研/images/images/Pasted Image 20250314165936_062.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250314170048_944.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 60520,
+      "exportedPath": "考研/images/images/Pasted Image 20250314170048_944.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250318174107_655.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 311087,
+      "exportedPath": "考研/images/images/Pasted Image 20250318174107_655.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250326201040_565.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 131736,
+      "exportedPath": "考研/images/images/Pasted Image 20250326201040_565.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250326201155_967.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 31054,
+      "exportedPath": "考研/images/images/Pasted Image 20250326201155_967.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250326205309_152.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 347618,
+      "exportedPath": "考研/images/images/Pasted Image 20250326205309_152.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250326213642_957.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 27460,
+      "exportedPath": "考研/images/images/Pasted Image 20250326213642_957.png",
+      "dependencies": []
+    },
+    "考研/images/images/Pasted Image 20250326213646_697.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 419572,
+      "exportedPath": "考研/images/images/Pasted Image 20250326213646_697.png",
+      "dependencies": []
+    },
+    "考研/images/images/PixPin_2025-03-18_18-00-25.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 282581,
+      "exportedPath": "考研/images/images/PixPin_2025-03-18_18-00-25.png",
+      "dependencies": []
+    },
+    "考研/images/images/PixPin_2025-03-18_18-00-25_0.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 282080,
+      "exportedPath": "考研/images/images/PixPin_2025-03-18_18-00-25_0.png",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-11 19.55.32.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 12498,
+      "exportedPath": "考研/images/高数 2025-03-11 19.55.32.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-12 16.24.09.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 9109,
+      "exportedPath": "考研/images/高数 2025-03-12 16.24.09.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-12 18.42.47.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 4910,
+      "exportedPath": "考研/images/高数 2025-03-12 18.42.47.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-12 18.46.22.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 8163,
+      "exportedPath": "考研/images/高数 2025-03-12 18.46.22.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-18 17.20.17.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 9204,
+      "exportedPath": "考研/images/高数 2025-03-18 17.20.17.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-18 17.40.45.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 7080,
+      "exportedPath": "考研/images/高数 2025-03-18 17.40.45.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-19 10.33.12.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 7409,
+      "exportedPath": "考研/images/高数 2025-03-19 10.33.12.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-19 18.12.43.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 6257,
+      "exportedPath": "考研/images/高数 2025-03-19 18.12.43.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-23 22.10.13.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 7909,
+      "exportedPath": "考研/images/高数 2025-03-23 22.10.13.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/高数 2025-03-24 13.12.10.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 36106,
+      "exportedPath": "考研/images/高数 2025-03-24 13.12.10.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-09 19.28.09.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2883,
+      "exportedPath": "考研/images/计组 2025-03-09 19.28.09.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-09 19.28.49.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 8511,
+      "exportedPath": "考研/images/计组 2025-03-09 19.28.49.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-09 19.29.27.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 10120,
+      "exportedPath": "考研/images/计组 2025-03-09 19.29.27.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-09 19.30.07.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 11493,
+      "exportedPath": "考研/images/计组 2025-03-09 19.30.07.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-17 20.59.20.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 13503,
+      "exportedPath": "考研/images/计组 2025-03-17 20.59.20.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-26 20.52.52.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 6738,
+      "exportedPath": "考研/images/计组 2025-03-26 20.52.52.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/计组 2025-03-26 21.36.39.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 3926,
+      "exportedPath": "考研/images/计组 2025-03-26 21.36.39.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/加减运算电路.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 542119,
+      "exportedPath": "考研/images/加减运算电路.png",
+      "dependencies": []
+    },
+    "考研/images/数据结构.excalidraw.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 54534,
+      "exportedPath": "考研/images/数据结构.excalidraw.png",
+      "dependencies": []
+    },
+    "考研/images/数据结构 2025-03-09 19.24.06.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 570,
+      "exportedPath": "考研/images/数据结构 2025-03-09 19.24.06.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/数据结构 2025-03-09 19.25.36.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 6964,
+      "exportedPath": "考研/images/数据结构 2025-03-09 19.25.36.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/数据结构 2025-03-09 19.26.21.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 19134,
+      "exportedPath": "考研/images/数据结构 2025-03-09 19.26.21.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/数据结构 2025-03-14 16.58.44.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 3090,
+      "exportedPath": "考研/images/数据结构 2025-03-14 16.58.44.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/数据结构 2025-03-27 19.46.53.excalidraw.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 31168,
+      "exportedPath": "考研/images/数据结构 2025-03-27 19.46.53.excalidraw.html",
+      "dependencies": []
+    },
+    "考研/images/IMG_0842.jpeg": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 82556,
+      "exportedPath": "考研/images/IMG_0842.jpeg",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191851.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2670532,
+      "exportedPath": "考研/images/Pasted image 20241121191851.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191915.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2782703,
+      "exportedPath": "考研/images/Pasted image 20241121191915.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191923.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2868759,
+      "exportedPath": "考研/images/Pasted image 20241121191923.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191930.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2659098,
+      "exportedPath": "考研/images/Pasted image 20241121191930.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191936.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2610508,
+      "exportedPath": "考研/images/Pasted image 20241121191936.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191942.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2891025,
+      "exportedPath": "考研/images/Pasted image 20241121191942.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121191948.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2319202,
+      "exportedPath": "考研/images/Pasted image 20241121191948.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121192056.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2610508,
+      "exportedPath": "考研/images/Pasted image 20241121192056.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121192100.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2891025,
+      "exportedPath": "考研/images/Pasted image 20241121192100.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20241121192157.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 2319202,
+      "exportedPath": "考研/images/Pasted image 20241121192157.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218202838.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1101439,
+      "exportedPath": "考研/images/Pasted image 20250218202838.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218204707.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 15287,
+      "exportedPath": "考研/images/Pasted image 20250218204707.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218205853.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1002599,
+      "exportedPath": "考研/images/Pasted image 20250218205853.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218210111.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 940977,
+      "exportedPath": "考研/images/Pasted image 20250218210111.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218210143.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 955952,
+      "exportedPath": "考研/images/Pasted image 20250218210143.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250218211939.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 10300,
+      "exportedPath": "考研/images/Pasted image 20250218211939.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250219003328.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 10049,
+      "exportedPath": "考研/images/Pasted image 20250219003328.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250219005122.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1104138,
+      "exportedPath": "考研/images/Pasted image 20250219005122.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250219005440.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 923378,
+      "exportedPath": "考研/images/Pasted image 20250219005440.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250219145516.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1411754,
+      "exportedPath": "考研/images/Pasted image 20250219145516.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250220172733.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 698553,
+      "exportedPath": "考研/images/Pasted image 20250220172733.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250225205355.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1077143,
+      "exportedPath": "考研/images/Pasted image 20250225205355.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250304152025.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1254978,
+      "exportedPath": "考研/images/Pasted image 20250304152025.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250304153031.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1290344,
+      "exportedPath": "考研/images/Pasted image 20250304153031.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250304211712.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1387797,
+      "exportedPath": "考研/images/Pasted image 20250304211712.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305154836.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1352621,
+      "exportedPath": "考研/images/Pasted image 20250305154836.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305171240.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1153850,
+      "exportedPath": "考研/images/Pasted image 20250305171240.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305171245.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1153850,
+      "exportedPath": "考研/images/Pasted image 20250305171245.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305194336.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 765457,
+      "exportedPath": "考研/images/Pasted image 20250305194336.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305194614.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 959175,
+      "exportedPath": "考研/images/Pasted image 20250305194614.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250305194719.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 605323,
+      "exportedPath": "考研/images/Pasted image 20250305194719.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306104009.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 50349,
+      "exportedPath": "考研/images/Pasted image 20250306104009.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306110706.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 143851,
+      "exportedPath": "考研/images/Pasted image 20250306110706.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306172544.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1208890,
+      "exportedPath": "考研/images/Pasted image 20250306172544.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306174631.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1398799,
+      "exportedPath": "考研/images/Pasted image 20250306174631.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306175127.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 123719,
+      "exportedPath": "考研/images/Pasted image 20250306175127.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306180749.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 813344,
+      "exportedPath": "考研/images/Pasted image 20250306180749.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306183436.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1976689,
+      "exportedPath": "考研/images/Pasted image 20250306183436.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306183503.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1030624,
+      "exportedPath": "考研/images/Pasted image 20250306183503.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306190609.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1060068,
+      "exportedPath": "考研/images/Pasted image 20250306190609.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306194215.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 950092,
+      "exportedPath": "考研/images/Pasted image 20250306194215.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306194847.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1261084,
+      "exportedPath": "考研/images/Pasted image 20250306194847.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306204658.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1286194,
+      "exportedPath": "考研/images/Pasted image 20250306204658.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250306205106.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 109373,
+      "exportedPath": "考研/images/Pasted image 20250306205106.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309150218.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 27492,
+      "exportedPath": "考研/images/Pasted image 20250309150218.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170406.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 57100,
+      "exportedPath": "考研/images/Pasted image 20250309170406.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170417.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 57100,
+      "exportedPath": "考研/images/Pasted image 20250309170417.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170426.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 57100,
+      "exportedPath": "考研/images/Pasted image 20250309170426.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170454.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 70830,
+      "exportedPath": "考研/images/Pasted image 20250309170454.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170531.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 61526,
+      "exportedPath": "考研/images/Pasted image 20250309170531.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170855.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 30330,
+      "exportedPath": "考研/images/Pasted image 20250309170855.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309170902.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 28606,
+      "exportedPath": "考研/images/Pasted image 20250309170902.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309184538.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 72716,
+      "exportedPath": "考研/images/Pasted image 20250309184538.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309185518.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 77422,
+      "exportedPath": "考研/images/Pasted image 20250309185518.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309185713.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 65706,
+      "exportedPath": "考研/images/Pasted image 20250309185713.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309185902.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 180331,
+      "exportedPath": "考研/images/Pasted image 20250309185902.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309185926.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 987792,
+      "exportedPath": "考研/images/Pasted image 20250309185926.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309194602.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1112750,
+      "exportedPath": "考研/images/Pasted image 20250309194602.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309200800.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 520470,
+      "exportedPath": "考研/images/Pasted image 20250309200800.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250309201929.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 136934,
+      "exportedPath": "考研/images/Pasted image 20250309201929.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250311193711.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 399443,
+      "exportedPath": "考研/images/Pasted image 20250311193711.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250311204619.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 73245,
+      "exportedPath": "考研/images/Pasted image 20250311204619.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250311204622.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 73245,
+      "exportedPath": "考研/images/Pasted image 20250311204622.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250312165657.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 295241,
+      "exportedPath": "考研/images/Pasted image 20250312165657.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250312165713.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 246225,
+      "exportedPath": "考研/images/Pasted image 20250312165713.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250312183950.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 25257,
+      "exportedPath": "考研/images/Pasted image 20250312183950.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250312184129.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 55883,
+      "exportedPath": "考研/images/Pasted image 20250312184129.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314160544.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 407834,
+      "exportedPath": "考研/images/Pasted image 20250314160544.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314165148.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1184088,
+      "exportedPath": "考研/images/Pasted image 20250314165148.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314171130.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 986246,
+      "exportedPath": "考研/images/Pasted image 20250314171130.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314171144.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 980531,
+      "exportedPath": "考研/images/Pasted image 20250314171144.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314172519.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 397861,
+      "exportedPath": "考研/images/Pasted image 20250314172519.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250314194523.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 221405,
+      "exportedPath": "考研/images/Pasted image 20250314194523.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250315161416.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 29717,
+      "exportedPath": "考研/images/Pasted image 20250315161416.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250315161419.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 29717,
+      "exportedPath": "考研/images/Pasted image 20250315161419.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250316222702.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 246057,
+      "exportedPath": "考研/images/Pasted image 20250316222702.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250316224420.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 234002,
+      "exportedPath": "考研/images/Pasted image 20250316224420.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250318165050.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 228454,
+      "exportedPath": "考研/images/Pasted image 20250318165050.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250319204145.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 422379,
+      "exportedPath": "考研/images/Pasted image 20250319204145.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250324203024.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 398725,
+      "exportedPath": "考研/images/Pasted image 20250324203024.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250324212003.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 358094,
+      "exportedPath": "考研/images/Pasted image 20250324212003.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250324212035.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 358094,
+      "exportedPath": "考研/images/Pasted image 20250324212035.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250324212112.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 294414,
+      "exportedPath": "考研/images/Pasted image 20250324212112.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325112535.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 329276,
+      "exportedPath": "考研/images/Pasted image 20250325112535.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325113920.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 185150,
+      "exportedPath": "考研/images/Pasted image 20250325113920.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325114855.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 567575,
+      "exportedPath": "考研/images/Pasted image 20250325114855.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325175506.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 244914,
+      "exportedPath": "考研/images/Pasted image 20250325175506.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325194813.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 138521,
+      "exportedPath": "考研/images/Pasted image 20250325194813.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250325195044.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 241611,
+      "exportedPath": "考研/images/Pasted image 20250325195044.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250326150602.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 322056,
+      "exportedPath": "考研/images/Pasted image 20250326150602.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250326170210.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 270099,
+      "exportedPath": "考研/images/Pasted image 20250326170210.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250326204806.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 297348,
+      "exportedPath": "考研/images/Pasted image 20250326204806.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250326211451.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 249369,
+      "exportedPath": "考研/images/Pasted image 20250326211451.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250327194511.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 247779,
+      "exportedPath": "考研/images/Pasted image 20250327194511.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250327194631.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 315641,
+      "exportedPath": "考研/images/Pasted image 20250327194631.png",
+      "dependencies": []
+    },
+    "考研/images/Pasted image 20250327195359.png": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 426352,
+      "exportedPath": "考研/images/Pasted image 20250327195359.png",
+      "dependencies": []
+    },
     "考研/操作系统.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 33,
       "exportedPath": "考研/操作系统.html",
       "dependencies": []
     },
     "考研/高数.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 28243,
       "exportedPath": "考研/高数.html",
       "dependencies": []
     },
     "考研/计网.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 0,
       "exportedPath": "考研/计网.html",
       "dependencies": []
     },
     "考研/计组.md": {
-      "modifiedTime": 1743180857761,
-      "sourceSize": 14859,
+      "modifiedTime": 1743186226134,
+      "sourceSize": 14860,
       "exportedPath": "考研/计组.html",
       "dependencies": []
     },
     "考研/考研择校.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 389,
       "exportedPath": "考研/考研择校.html",
       "dependencies": []
     },
     "考研/数据结构.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 10777,
       "exportedPath": "考研/数据结构.html",
       "dependencies": []
     },
     "考研/数学.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 486,
       "exportedPath": "考研/数学.html",
       "dependencies": []
     },
     "考研/线代.md": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 0,
       "exportedPath": "考研/线代.html",
       "dependencies": []
     },
-    "主页.md": {
-      "modifiedTime": 1743180857761,
-      "sourceSize": 1553,
-      "exportedPath": "主页.html",
+    "index.md": {
+      "modifiedTime": 1743186226134,
+      "sourceSize": 1429,
+      "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1743180857761,
+      "modifiedTime": 1743186226134,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
